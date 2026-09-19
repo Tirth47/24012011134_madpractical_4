@@ -72,6 +72,18 @@ This application demonstrates how an alarm can be scheduled in Android using `Al
 - TimePickerDialog
 - Material Design Components
 
+---
+
+# Student Details
+
+**Enrollment No:** 24012011134
+
+**Practical:** 04
+
+**Subject:** Mobile Application Development (MAD)
+
+---
+
 ## Project Structure
 
 ```text
